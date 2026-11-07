@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /search.html
+Disallow: /404.html
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /search.html
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://cqfbz.github.io/sitemap.xml
